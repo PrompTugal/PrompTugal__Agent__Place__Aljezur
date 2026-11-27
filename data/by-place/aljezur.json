@@ -312,95 +312,10 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T07:38:31Z",
+  "read_at": "2026-11-27T18:37Z",
   "by": "place.aljezur@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
-  "main_headline": {
-   "title": "Festival da Batata-Doce de Aljezur inclui entrega de veículo aos bombeiros no programa",
-   "url": "https://www.barlavento.pt/festival-batata-doce-aljezur-2026/",
-   "source": "Barlavento",
-   "date": "2026-11-26",
-   "read_at": "2026-11-27T07:31:01Z",
-   "names_place": true
-  },
-  "items": [
-   {
-    "title": "Festival da Batata-Doce de Aljezur inclui entrega de veículo aos bombeiros no programa",
-    "url": "https://www.barlavento.pt/festival-batata-doce-aljezur-2026/",
-    "published": "2026-11-26T13:25Z",
-    "date": "2026-11-26",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Aljezur&feed=rss2",
-    "read_at": "2026-11-27T07:31:01Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Festival da Batata-Doce de Aljezur regressa com três dias de gastronomia, música e solidariedade",
-    "url": "https://postal.pt/algarve/festival-da-batata-doce-de-aljezur-regressa-com-tres-dias-de-gastronomia-musica-e-solidariedade/",
-    "published": "2026-11-25T10:20Z",
-    "date": "2026-11-25",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Aljezur&feed=rss2",
-    "read_at": "2026-11-27T07:31:07Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Sabia que Aljezur já foi praticamente uma ilha? Assoreamento alterou a paisagem mas o nome da vila guarda a memória",
-    "url": "https://postal.pt/algarve/sabia-que-aljezur-ja-foi-praticamente-uma-ilha-assoreamento-alterou-a-paisagem-mas-o-nome-da-vila-guarda-a-memoria/",
-    "published": "2026-10-22T12:25Z",
-    "date": "2026-10-22",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Aljezur&feed=rss2",
-    "read_at": "2026-11-27T07:31:07Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Espetáculo “Nico e sonhos de papel” passa por Aljezur depois de Coimbra e Lisboa",
-    "url": "https://postal.pt/algarve/espetaculo-nico-e-sonhos-de-papel-passa-por-aljezur-depois-de-coimbra-e-lisboa/",
-    "published": "2026-10-08T11:00Z",
-    "date": "2026-10-08",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Aljezur&feed=rss2",
-    "read_at": "2026-11-27T07:31:07Z",
-    "mentions_place": true
-   },
-   {
-    "title": "GNR apreende quase 4.000 litros de combustível em Albufeira e Aljezur",
-    "url": "https://postal.pt/algarve/gnr-apreende-quase-4-000-litros-de-combustivel-em-albufeira-e-aljezur/",
-    "published": "2026-10-04T11:53Z",
-    "date": "2026-10-04",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Aljezur&feed=rss2",
-    "read_at": "2026-11-27T07:31:07Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Turista alemão morre após paragem cardiorrespiratória em praia de Aljezur",
-    "url": "https://postal.pt/algarve/turista-alemao-morre-apos-paragem-cardiorrespiratoria-em-praia-de-aljezur/",
-    "published": "2026-09-28T11:50Z",
-    "date": "2026-09-28",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Aljezur&feed=rss2",
-    "read_at": "2026-11-27T07:31:07Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Fernando Pessanha leva história da pirataria algarvia ao ciclo de conferências de Aljezur",
-    "url": "https://postal.pt/algarve/fernando-pessanha-leva-historia-da-pirataria-algarvia-ao-ciclo-de-conferencias-de-aljezur/",
-    "published": "2026-09-28T08:13Z",
-    "date": "2026-09-28",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Aljezur&feed=rss2",
-    "read_at": "2026-11-27T07:31:07Z",
-    "mentions_place": true
-   }
-  ]
+  "main_headline": null,
+  "items": []
  }
 }
