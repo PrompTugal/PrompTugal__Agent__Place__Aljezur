@@ -312,10 +312,29 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-28T18:38Z",
+  "read_at": "2026-11-28T18:39:32Z",
   "by": "place.aljezur@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
-  "main_headline": null,
-  "items": []
+  "main_headline": {
+   "title": "Festival da Batata-Doce de Aljezur inclui entrega de veículo aos bombeiros no programa",
+   "url": "https://www.barlavento.pt/festival-batata-doce-aljezur-2026/",
+   "source": "Barlavento",
+   "date": "2026-11-26",
+   "read_at": "2026-11-28T18:30:45Z",
+   "names_place": true
+  },
+  "items": [
+   {
+    "title": "Festival da Batata-Doce de Aljezur inclui entrega de veículo aos bombeiros no programa",
+    "url": "https://www.barlavento.pt/festival-batata-doce-aljezur-2026/",
+    "published": "2026-11-26T13:25Z",
+    "date": "2026-11-26",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Aljezur&feed=rss2",
+    "read_at": "2026-11-28T18:30:45Z",
+    "mentions_place": true
+   }
+  ]
  }
 }
